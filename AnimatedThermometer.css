@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+#main_container{
+    
+}
+#main_container h1{
+    color: white;
+    font-size: 3em;
+    margin: 150px 0px 30px 0px;
+    text-align: center;
+}
+#tempNum{
+    margin-left: 50%;
+}
+#tempAlert{
+    text-align: center;
+    margin-top: 30px;
+}
+#thermometer{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+}
